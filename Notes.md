@@ -1,13 +1,13 @@
 ## 1. Introduction to React
 ### 1.1 - Hi, my name is React
 
-**SPA (Single Page Application)**
+**SPA (Single Page Application):**
 - Web app/site that dynamically rewrites the current page rather than loading new pages from the server.
     
-**MVC (Model View Controller)**
+**MVC (Model View Controller):**
 - A software design pattern used for developing UI's by separating logic into different parts (Model, View, and Controller)
 
-**JSX**
+**JSX:**
 - Syntax to build components in React, which allows for mixing of HTML and JavaScript.
 
 | Item | Action | Item |
@@ -62,7 +62,15 @@
 
 ### 1.3 - Installation
 
+**CDN:**
+- Content Delivery Network
+- Used to host files publicly for consumers, such as libraries
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Read about [react installation](https://reactjs.org/docs/getting-started.html) | True |
 
 --------
   
