@@ -99,13 +99,28 @@
   
 ### 1.5 - Introduction to JSX
 
+| Todo | (Have Done) |
+| :---: | :---: |
+| remove all excess HTML in `src/App.js` | Done |
+| define `helloWorld` variable | Done |
+| Exec `npm start` | Done |
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Confirm source code for (`zero_config`) | Done |
+| Define more variables for `src/App.js` | Done |
+| Read about [JSX](https://reactjs.org/docs/introducing-jsx.html) | Done |
+| Read about [React Components](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html) | Done |
 
 --------
   
 ### 1.6 - ES6 const and let
 
 --------
+
+
 
 --------
   
