@@ -76,7 +76,24 @@
   
 ### 1.4 - Zero-Configuration Setup
 
+| Todo | (Have Done) |
+| :---: | :---: |
+| `npm i -g create-react-app` | Done |
+| `create-react-app --version` | 3.3.0 |
+| `create-react-app <name>` | "zero_config" |
+| `cd <name>` | Done |
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Confirm source code for (`zero_config`) | True |
+| Exec `npm start` | True |
+| Exec `npm test` | True |
+| Exec `npm run build` | True |
+| Read about [create-react-app](https://github.com/facebookincubator/create-react-app) | True |
+
+(Exercise results located in `/ex_1.2/`)
 
 --------
   
