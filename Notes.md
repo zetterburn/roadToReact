@@ -118,9 +118,26 @@
   
 ### 1.6 - ES6 const and let
 
+**const**
+- Can not be re-assigned, re-declared, changed, or modified after declaration.
+- const array/object values Can be updated through indirect means
+
+**let**
+- Can be re-assigned, modified, etc after declaration
+
 --------
 
+| Exercises | (Have Done) |
+| :---: | :---: |
+| use `const` and `let` declaration in `src/App.js` | Done |
+| Read about [ES6 const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) | Done |
+| Read about [ES6 let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) | Done |
 
+**Question:** Why do immutable data structures make sense in programming?
+- Mutable type state updates change all references to that variable, but immutable objects references are always assigned to new objects.
+
+**Question:** Why are immutable data structures embraced in React and its ecosystem?
+- Immutability helps to remove the complexity of changing and updating variables constantly.
 
 --------
   
