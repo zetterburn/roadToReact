@@ -47,14 +47,16 @@
 
 | Exercises | (Have Done) |
 | :---: | :---: |
-| Create new Folder (`mkdir`) |  |
-| Navigate to folder (`cd`) |  |
-| Exec `npm init`/`npm init -y` |  |
-| Install react (`npm i react`) |  |
-| Check `package.json` & `node_modules/` |  |
-| uninstall/reinstall `react` package |  |
+| Create new Folder (`mkdir`) | True |
+| Navigate to folder (`cd`) | True |
+| Exec `npm init`/`npm init -y` | True |
+| Install react (`npm i react`) | True |
+| Check `package.json` & `node_modules/` | True |
+| uninstall/reinstall `react` package | True |
 | Read about [npm](https://docs.npmjs.com/) | True |
 | Read about [yarn](https://yarnpkg.com/en/docs/) | True |
+
+(Exercise results located in `/ex_1.2/`)
 
 --------
 
