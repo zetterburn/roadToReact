@@ -93,7 +93,7 @@
 | Exec `npm run build` | True |
 | Read about [create-react-app](https://github.com/facebookincubator/create-react-app) | True |
 
-(Exercise results located in `/ex_1.2/`)
+(Exercise results located in `/ex_1.4/`)
 
 --------
   
