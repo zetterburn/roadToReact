@@ -20,10 +20,12 @@
 --------
 
 | Exercises | (Have Read) |
-| ---: | :---: |
+| :---: | :---: |
 | [Article 1](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/) | True |
 | [Article 2](https://www.robinwieruch.de/essential-react-libraries-framework/) | True |
 | [Article 3](https://www.robinwieruch.de/how-to-learn-framework/) | True |
+
+--------
 
 ### 1.2 - Requirements
 
@@ -44,7 +46,7 @@
 --------
 
 | Exercises | (Have Done) |
-| ---: | :---: |
+| :---: | :---: |
 | Create new Folder (`mkdir`) |  |
 | Navigate to folder (`cd`) |  |
 | Exec `npm init`/`npm init -y` |  |
@@ -54,39 +56,58 @@
 | Read about [npm](https://docs.npmjs.com/) | True |
 | Read about [yarn](https://yarnpkg.com/en/docs/) | True |
 
+--------
+
 ### 1.3 - Installation
 
-  
+--------
+
+--------
   
 ### 1.4 - Zero-Configuration Setup
 
-  
+--------
+
+--------
   
 ### 1.5 - Introduction to JSX
 
-  
+--------
+
+--------
   
 ### 1.6 - ES6 const and let
 
-  
+--------
+
+--------
   
 ### 1.7 - ReactDOM
 
-  
+--------
+
+--------
   
 ### 1.8 - Hot Module Replacement
 
-  
+--------
+
+--------
   
 ### 1.9 - Complex JavaScript in JSX
 
-  
+--------
+
+--------
   
 ### 1.10 - ES6 Arrow Functions
 
-  
+--------
+
+--------
   
 ### 1.11 - ES6 Classes
 
-  
-  
+--------
+
+--------
