@@ -143,7 +143,16 @@
   
 ### 1.7 - ReactDOM
 
+**ReactDOM.render()**
+- Uses a DOM node to replace HTML with JSX.
+- Used to integrate React
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Check React hooks into HTML in `public/index.html` | Done |
+| Read about [ReactDOM](https://reactjs.org/docs/rendering-elements.html) | Done |
 
 --------
   
