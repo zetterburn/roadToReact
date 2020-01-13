@@ -158,13 +158,32 @@
   
 ### 1.8 - Hot Module Replacement
 
+`if (module.hot) {
+    module.hot.accept();
+}`
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Hot Module replacement in `src/App.js` | Done |
+| Watch first 10 min of [Live React: HRWTT](https://www.youtube.com/watch?v=xsSnOQynTHs) | Done |
 
 --------
   
 ### 1.9 - Complex JavaScript in JSX
 
+**list.map()**
+- Iterate over a list of items to display them according to specific attributes.
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| Mapping exercises in `src/App.js` | Done |
+| Recap on [Article 1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/) | Done |
+| Recap on [Article 2](https://www.robinwieruch.de/javascript-map-array/) | Done |
+| Use more JavaScript expressions in my JSX | Done |
 
 --------
   
