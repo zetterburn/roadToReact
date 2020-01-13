@@ -189,12 +189,24 @@
   
 ### 1.10 - ES6 Arrow Functions
 
+**(x,y)=>{}**
+- equivalent of `function(x,y){}`
+
 --------
+
+| Exercises | (Have Done) |
+| :---: | :---: |
+| ES6 Arrow Functions in `src/App.js` | Done |
+| Read about [Arrow Functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions) | Done |
 
 --------
   
 ### 1.11 - ES6 Classes
 
 --------
+
+| Exercises | (Have Done) |
+| Read about [JS Fundamentals](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) | Done |
+| Read about [ES6 Classes](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes) | Done |
 
 --------
